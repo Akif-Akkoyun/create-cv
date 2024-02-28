@@ -1,0 +1,191 @@
+.buyukKutu{
+    width: 1500;
+    height: 1500px;
+    display: flex;    
+}
+.baslik{
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: none;
+    border-bottom-style: solid;
+    text-align: left;
+    font-size: 20px;
+}
+.baslik5{
+    border: 5px solid rgb(0, 0, 0);
+    width: 1634px;
+    text-align: center;
+    font-size: 20px;
+}
+.kucukKutu1{
+    background-color: rgb(97, 96, 96);
+    text-align: center;
+    width: 300px;
+    height: 1500px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.kucukKutu2{
+    background-color: grey;    
+    text-align: center;
+    width: 300px;
+    height: 1500px;
+    border: 1px solid rgb(0, 0, 0);
+    font-family: Arial;
+}
+.cv{
+    width: 1000px;
+    height: 1500px;
+    display: flex;
+    font-family: verdana;
+    background-color: #cf0d0d;
+    padding-left: 40px;
+    font-family: Arial;
+}
+.solKolon {
+    width: 300px;
+    height: 100%;
+    background-color:#9c0101
+}
+
+.sagKolon {
+    width:600px;
+    height: 100%;
+    padding: 0px 30px 0px 30px;
+    background-color: #af0909;
+}
+.solKolon .foto{
+    width: 50px; 
+    height: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    background: transparent; 
+    position: relative;
+    top: 5px;
+    left: 25px;
+    padding: 100px;
+
+}
+#f{
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+#f1{
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+#kare1{
+    width: 50px; 
+    height: 50px;
+    border: 1px solid rgb(0, 0, 0);
+    background: transparent; 
+    position: relative;
+    top: 5px;
+    left: 25px;
+    padding: 100px;
+}
+#f2{
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+.solKolon .foto .yuvarlak{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+.sagKolon .isimKutusu{
+    background-color: gray;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;   
+}
+.kutu {   
+    margin: 25px auto;
+    min-height: 50px; 
+}
+.kutu .baslik1{
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 50px;   
+}
+.icerik1{
+    font-size: 12px;
+    text-align: justify;
+    padding-left: 5px;
+}
+.icerik2{
+    font-size: 10px;
+    text-align: justify;
+    padding-left: 5px;
+}
+.kucukKutu1 .icerik1 .b1{
+    text-decoration: underline;
+}
+.kucukKutu2 .icerik2 .b1{
+    text-decoration: underline;
+}
+.kutu .deneyim{
+    width: 600px;
+    height: 600px;
+    word-wrap: break-word;   
+}
+.kutu .hakkımda{
+    width: 600px;
+    height: 300px;
+    word-wrap: break-word; 
+}
+.kutu .acıklama{    
+    width: 290px;
+    height: 350px;
+    word-wrap: break-word;
+    text-align: justify;
+}
+.kutu .acıklama .egitimAcıklama{    
+    width: 290px;
+    height: 350px;
+    word-wrap: break-word;
+    text-align: justify;
+}
+.kutu .acıklama .yetenekAciklama{    
+    width: 290px;
+    height: 350px;
+    word-wrap: break-word;
+    text-align: justify;
+}
+#a{
+    word-wrap: break-word;
+}
+#o1{
+    position: relative;
+    right: 70px;
+}
+#o2{
+    position: relative;
+    right: 70px;
+}
+#o3{
+    position: relative;
+    right: 70px;
+}
+.solKolon .kutu .egitimAcıklama{
+    position: relative;
+    left: 100px;    
+}
+.solKolon .kutu .yetenekAciklama{
+    position: relative;
+    left: 100px;    
+}
+#master1{
+    position: relative;
+    right: 70px;
+}
+#master2{
+    position: relative;
+    right: 70px;
+}
+#master3{
+    position: relative;
+    right: 70px;
+}
